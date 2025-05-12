@@ -1,4 +1,3 @@
-readme_text = '''
 # Image Blur Analysis Notebook
 
 This Jupyter notebook demonstrates various levels of Gaussian blur effects on images and their impacts through difference maps.
@@ -31,7 +30,3 @@ This Jupyter notebook demonstrates various levels of Gaussian blur effects on im
 3. Observe the progressive blur effects and their corresponding difference maps
 
 '''
-
-# Write to README.md
-with open('README.md', 'w') as f:
-    f.write(readme_text)
