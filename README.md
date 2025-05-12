@@ -29,4 +29,3 @@ This Jupyter notebook demonstrates various levels of Gaussian blur effects on im
 2. Run all cells to see the blur effects and difference maps
 3. Observe the progressive blur effects and their corresponding difference maps
 
-'''
